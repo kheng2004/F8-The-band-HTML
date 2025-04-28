@@ -425,7 +425,7 @@ i.ti-close:hover {
 
 .contact-info{
     font-size: 18px;
-    line-height: 30px;
+    line-height: 1.5;
 }
 .contact-info i[class*="ti-"]{
     width: 30px;
